@@ -97,7 +97,8 @@ def attack_opponent(player):
         else:
             print("You missed, maybe more luck next time?")
     else:
-        print("Invalid input. Please enter a number between 1 and 5.") ```
+        print("Invalid input. Please enter a number between 1 and 5.")
+```
 
 ## PART 4: Testing Log
 
